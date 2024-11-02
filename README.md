@@ -12,4 +12,4 @@ May be added as a Git Submodule or an ordinary directory
 > [!WARNING]
 > Do not rename `av` to anything else. Doing so will break chapter links.
 
-Credits to @pmbauer
+Credits to [@pmbauer](https://github.com/pmbauer/)
