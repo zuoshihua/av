@@ -7,7 +7,10 @@ Current release donwloaded from [this repo](https://github.com/pmbauer/av-obsidi
 This repo's contents were extracted from
 [https://github.com/pmbauer/av-obsidian](https://github.com/pmbauer/av-obsidian)
 
-May be added as a Git Submodule or an ordinary directory
+Usage:
+
+1. Add as a Git Submodule: `git submodule add https://github.com/zuoshihua/av.git`. Vault must be a Git repository.
+2. Click green "Code" button at top right, choose Download ZIP, and extract as `av` inside vault.
 
 > [!WARNING]
 > Do not rename `av` to anything else. Doing so will break chapter links.
